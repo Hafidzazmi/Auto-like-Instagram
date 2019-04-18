@@ -6,9 +6,6 @@ Created on Wed Jan 30 09:12:47 2019
 @author: ocan
 """
 
-# Note: For proper working of this Script Good and Uninterepted Internet Connection is Required
-# Keep all contacts unique
-# Can save contact with their phone Number
 
 # Import required packages
 from selenium import webdriver
